@@ -1,3 +1,18 @@
 p {
-    color:red
+    color: red;
 }
+section{
+    border: 10px solid #090a0a;
+    background-color: rgb(88, 214, 204);
+    color: #1d31e2;
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+  section#sobre {
+    padding: 2rem;
+    margin: 1rem 0 1rem;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    color:darkgreen
+  }
